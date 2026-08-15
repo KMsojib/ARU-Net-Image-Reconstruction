@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Data (never commit raw or degraded images / private dataset material)
+data/*
+!data/README.md
+
+# Model weights (large binaries; distribute separately, e.g. Releases)
+checkpoints/*.pth
+checkpoints/*.pt
+!checkpoints/README.md
+
+# Generated outputs
+results/reconstructions/*
+results/figures/*
+results/metrics/*.csv
+!results/reconstructions/.gitkeep
+!results/figures/.gitkeep
+!results/metrics/.gitkeep
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/

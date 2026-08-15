@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the underlying thesis."
+title: "ARU-Net: Encoder-decoder based image reconstruction towards efficient downstream tasks"
+type: thesis
+authors:
+  - family-names: "Mobashara"
+    given-names: ""
+    affiliation: "Feni University"
+  - family-names: "Mahmud"
+    given-names: "Md. Kawsar"
+    affiliation: "Feni University"
+thesis-type: "Bachelor's thesis"
+institution:
+  name: "Feni University, Department of Computer Science and Engineering"
+date-released: "2026-03-01"
+version: "1.0.0"
+supervisors:
+  - family-names: "Mazumder"
+    given-names: "Shazzad Hossain"
+    affiliation: "Feni University"
+keywords:
+  - image reconstruction
+  - attention residual u-net
+  - crop disease detection
+  - PSNR
+  - SSIM
+  - agricultural imaging
+license: MIT
+repository-code: "https://github.com/YOUR_GITHUB_USERNAME/ARU-Net-Image-Reconstruction"
