@@ -1,8 +1,7 @@
 # Attention Residual U-Net for Image Reconstruction
 
 Bachelor's thesis project: *"ARU-Net: Encoder-decoder based image
-reconstruction towards efficient downstream tasks"* -- Mobashara (221031021)
-& Md. Kawsar Mahmud (221031005), Department of Computer Science and
+reconstruction towards efficient downstream tasks"*Md. Kawsar Mahmud (221031005), Department of Computer Science and
 Engineering, Feni University, supervised by Shazzad Hossain Mazumder
 (March 2026).
 
